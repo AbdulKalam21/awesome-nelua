@@ -21,7 +21,6 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
 - [nelua-game2048](https://github.com/edubart/nelua-game2048) - Clone of the 2048 game in Nelua using Raylib <br>
 - [nelua-tetris](https://github.com/edubart/nelua-tetris) - Tetris game clone made in Nelua with Raylib <br>
 - [Castle Escape](https://github.com/Andre-LA/baixada-game-jam-game/) - Game made for Baixada Game Jam, written in Nelua using Raylib <br>
-- [Alpinist VS The Alien Invasion in Mount Roraima](https://github.com/Andre-LA/alpinist-vs-the-mount-roraima-alien-invasion) - Game made for IGDFE Game Jam 2, written in Nelua <br>
 - [Game Of Life in Arduino](https://gist.github.com/edubart/4991c5dd51205288519419f7d438adcf) - Game of Life coded in Arduino with Nelua <br>
 - [Cesleste](https://gist.github.com/edubart/a79bf78a249d1fff2b77728c260c7605) - Celeste game clone in Nelua <br>
 
