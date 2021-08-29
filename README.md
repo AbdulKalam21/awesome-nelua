@@ -23,6 +23,7 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
 - [Castle Escape](https://github.com/Andre-LA/baixada-game-jam-game/) - Game made for Baixada Game Jam, written in Nelua using Raylib <br>
 - [Game Of Life in Arduino](https://gist.github.com/edubart/4991c5dd51205288519419f7d438adcf) - Game of Life coded in Arduino with Nelua <br>
 - [Cesleste](https://gist.github.com/edubart/a79bf78a249d1fff2b77728c260c7605) - Celeste game clone in Nelua <br>
+- [nelua-Ping-Pong](https://github.com/AKDev21/nelua-ping-pong) - Ping Pong Game made using raylib with the nelua programming language <br>
 
 ### Graphics and Game Development
 - [marcherstein3d](https://github.com/edubart/marcherstein3d) - Realtime pseudo 3D raycaster on the CPU using 2D ray marching
