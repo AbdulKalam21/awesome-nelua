@@ -37,6 +37,7 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
 - [nelua-sublime](https://github.com/edubart/nelua-sublime) - Nelua syntax highlighting for Sublime Text <br>
 - [nelua-lite-xl](https://gist.github.com/Andre-LA/2f56f69bc7b3ac9042534bb2c831639b) - Nelua syntax highliting for Lite-xl
 - [nelua.vim](https://github.com/stefanos82/nelua.vim) - Nelua syntax highlighting for Vim
+- [micro-nelua-plugin](https://github.com/leapofazzam123/micro-nelua-plugin) - Nelua syntax highliting and linter micro text editor
 
 ### Testing
 - [Lester](https://github.com/edubart/lester) - Lester is a minimal unit testing framework for Lua with a focus on being simple to use. <br>
