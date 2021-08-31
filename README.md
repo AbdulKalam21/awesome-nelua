@@ -37,6 +37,7 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua
 
 ### IDE and Code Editor Support
+- [nelua-lsp](https://github.com/codehz/nelua-lsp) - langauge server plugin for the nelua programming language
 - [nelua-vscode](https://github.com/edubart/nelua-vscode) - Nelua syntax highlighting for Visual Studio Code
 - [nelua-sublime](https://github.com/edubart/nelua-sublime) - Nelua syntax highlighting for Sublime Text
 - [nelua-lite-xl](https://gist.github.com/Andre-LA/2f56f69bc7b3ac9042534bb2c831639b) - Nelua syntax highliting for Lite-xl
