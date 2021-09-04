@@ -3,6 +3,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ## Contents
 - [awesome-nelua](https://github.com/AKDev21/awesome-nelua/)
+  - [General Purpose](#general-purpose)
   - [Package Manager](#package-manager)
   - [Web](#web)
   - [Games](#games)
@@ -14,6 +15,9 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
   - [BenchMark](#benchMark)
   - [Operating System](#operating-System)
   - [Projects](#projects)
+
+### General Purpose
+- [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
 
 ### Package Manager
 - [pancake-pm](https://github.com/linkpy/pancake-pm) - Simple pancake manager for Nelua.
@@ -33,9 +37,13 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Graphics and Game Development
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua.
+- [zlnl](https://github.com/darltrash/zlnl) - A minimalist RPG game engine made in nelua for c99
 - [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib wrapper for the nelua programming language.
-- [marcherstein3d](https://github.com/edubart/marcherstein3d) - Realtime pseudo 3D raycaster on the CPU using 2D ray marching.
+- [Rotor-nelua](https://github.com/Andre-LA/Rotor-nelua-mirror) - Rotor is a set of libraries for doing ECS in Nelua.
+- [irene](https://github.com/Andre-LA/irene) - A collection of systems and components for Rotor-nelua.
 - [nprof](https://github.com/Andre-LA/nprof) - Very basic profiler for raylib-nelua.
+- [marcherstein3d](https://github.com/edubart/marcherstein3d) - Realtime pseudo 3D raycaster on the CPU using 2D ray marching.
+- [nelua-raytracing](https://github.com/Andre-LA/nelua-raytracing-card-mirror) - Tiny raytracing that fits on a business card.
 
 ### IDE and Code Editor Support
 - [nelua-lsp](https://github.com/codehz/nelua-lsp) - Langauge server plugin for the nelua programming language.
@@ -49,6 +57,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [Lester](https://github.com/edubart/lester) - Lester is a minimal unit testing framework for Lua with a focus on being simple to use.
 
 ### Utility
+- [forkmoon](https://github.com/edubart/forkmon) - Watch for file changes and auto restart an application using fork checkpoints to continue the process (for quick live development).
 - [nelua-delc](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
 - [nldoec](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
 - [luamon](https://github.com/edubart/luamon) - Live development utility for Lua inspired by nodemon.
@@ -64,8 +73,12 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nelua-benchmarks](https://github.com/edubart/nelua-benchmarks) - Benchmarks for comparing efficiency of Nelua with Lua, LuaJIT and C.
 - [realist](https://github.com/nsauzede/realist) - SDL2 raytracer + benchmark for Rust, Nelua, Nim, C, C++, Odin, V, Go.
 
+### Block Chain
+- [NeChain](https://github.com/AliChraghi/NeChain) - A Single File Blockchain written in Nelua.
+
+
 ### Operating System
 - [nelua-osdev](https://github.com/radgeRayden/nelua-osdev-barebones) - An Operating System written in nelua.
 
 ### Projects
-- [Retrocord client](https://github.com/Elpersonn/Retrocord-client) - Client for retrocord written in Nelua
+- [Retrocord client](https://github.com/Elpersonn/Retrocord-client) - Client for retrocord written in Nelua.
