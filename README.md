@@ -12,6 +12,7 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
   - [Utility](#Utility)
   - [Resources](#Resources)
   - [BenchMark](#BenchMark)
+  - [Operating System](#Operating-System)
   - [Extra](#Extra)
 
 ### Package Manager
@@ -63,6 +64,8 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
 - [nelua-benchmarks](https://github.com/edubart/nelua-benchmarks) - Benchmarks for comparing efficiency of Nelua with Lua, LuaJIT and C
 - [realist](https://github.com/nsauzede/realist) - SDL2 raytracer + benchmark for Rust, Nelua, Nim, C, C++, Odin, V, Go
 
-### Extra
+## Operating System
 - [nelua-osdev](https://github.com/radgeRayden/nelua-osdev-barebones) - An Operating System written in nelua
+
+### Extra
 - [Retrocord client](https://github.com/Elpersonn/Retrocord-client) - Client for retrocord written in Nelua
