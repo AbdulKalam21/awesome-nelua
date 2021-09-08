@@ -20,6 +20,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### General Purpose
 - [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
+- [lua-bint](https://github.com/edubart/lua-bint) - Small portable arbitrary-precision integer arithmetic library in pure Lua for computing with large integers.
 
 ### Package Manager
 - [pancake-pm](https://github.com/linkpy/pancake-pm) - Simple pancake manager for Nelua.
