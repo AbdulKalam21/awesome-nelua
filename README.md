@@ -16,6 +16,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
   - [Operating System](#operating-System)
   - [Projects](#projects)
   - [Live Development](#live-development)
+  - [Parsing](#parsing)
 
 ### General Purpose
 - [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
@@ -75,7 +76,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Block Chain
 - [NeChain](https://github.com/AliChraghi/NeChain) - A Single File Blockchain written in Nelua.
 
-
 ### Operating System
 - [nelua-osdev](https://github.com/radgeRayden/nelua-osdev-barebones) - An Operating System written in nelua.
 
@@ -85,3 +85,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Live Development
 - [luamon](https://github.com/edubart/luamon) - Live development utility for Lua inspired by nodemon.
 - [forkmoon](https://github.com/edubart/forkmon) - Watch for file changes and auto restart an application using fork checkpoints to continue the process (for quick live development).
+
+### Parsing
+- [lpegrex](https://github.com/edubart/lpegrex) - Parse programming languages syntax into an AST using PEGs with ease (LPeg Extension).
