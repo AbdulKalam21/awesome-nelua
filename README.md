@@ -15,6 +15,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
   - [BenchMark](#benchMark)
   - [Operating System](#operating-System)
   - [Projects](#projects)
+  - [Live Development](#live-development)
 
 ### General Purpose
 - [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
@@ -57,10 +58,8 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [Lester](https://github.com/edubart/lester) - Lester is a minimal unit testing framework for Lua with a focus on being simple to use.
 
 ### Utility
-- [forkmoon](https://github.com/edubart/forkmon) - Watch for file changes and auto restart an application using fork checkpoints to continue the process (for quick live development).
 - [nelua-delc](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
 - [nldoec](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
-- [luamon](https://github.com/edubart/luamon) - Live development utility for Lua inspired by nodemon.
 - [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua!.
 
 ### Resources
@@ -82,3 +81,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Projects
 - [Retrocord client](https://github.com/Elpersonn/Retrocord-client) - Client for retrocord written in Nelua.
+
+### Live Development
+- [luamon](https://github.com/edubart/luamon) - Live development utility for Lua inspired by nodemon.
+- [forkmoon](https://github.com/edubart/forkmon) - Watch for file changes and auto restart an application using fork checkpoints to continue the process (for quick live development).
