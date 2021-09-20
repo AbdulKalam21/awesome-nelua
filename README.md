@@ -17,6 +17,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
   - [Projects](#projects)
   - [Live Development](#live-development)
   - [Parsing](#parsing)
+  - [Virtual Machine](#virtual-machine)
 
 ### General Purpose
 - [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
@@ -60,7 +61,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [Lester](https://github.com/edubart/lester) - Lester is a minimal unit testing framework for Lua with a focus on being simple to use.
 
 ### Utility
-- [nelua-delc](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
+- [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
 - [nldoec](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
 - [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua!.
 
@@ -89,3 +90,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Parsing
 - [lpegrex](https://github.com/edubart/lpegrex) - Parse programming languages syntax into an AST using PEGs with ease (LPeg Extension).
+
+### Virtual Machine
+- [riscvm](https://github.com/edubart/riscvm) - Tiny RISC-V virtual machine written in Nelua (and C as consequence).
