@@ -59,6 +59,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Testing
 - [Lester](https://github.com/edubart/lester) - Lester is a minimal unit testing framework for Lua with a focus on being simple to use.
+- [neluatest](https://github.com/nsauzede/neluatest) - Testing Nelua Programming Language
 
 ### Utility
 - [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
