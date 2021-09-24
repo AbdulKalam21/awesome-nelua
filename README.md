@@ -67,6 +67,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
 - [nldoec](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
 - [fs](https://github.com/edubart/nelua-batteries/blob/main/docs/fs.md) - File system module: Contains various utilities to manages files, directories and links.
+- [backtrace](https://github.com/edubart/nelua-batteries/blob/main/docs/backtrace.md) - Back trace module: provides utilities to get trace backs of the call stack at runtime.
 - [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua!.
 
 ### Resources
