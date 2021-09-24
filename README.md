@@ -66,6 +66,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Utility
 - [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
 - [nldoec](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
+- [fs](https://github.com/edubart/nelua-batteries/blob/main/docs/fs.md) - File system module: Contains various utilities to manages files, directories and links.
 - [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua!.
 
 ### Resources
