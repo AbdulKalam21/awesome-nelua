@@ -22,7 +22,8 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### General Purpose
 - [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
 - [lua-bint](https://github.com/edubart/lua-bint) - Small portable arbitrary-precision integer arithmetic library in pure Lua for computing with large integers.
-- [ffi](https://github.com/edubart/nelua-batteries/blob/main/docs/backtrace.md) -  Cross platform FFI for Nelua, you can use it to load symbols from shared libraries.
+- [ffi](https://github.com/edubart/nelua-batteries) - Cross platform FFI for Nelua, you can use it to load symbols from shared libraries.
+- [fs](https://github.com/edubart/nelua-batteries) - Cross platform file system library, you can use manage files and directories.
 
 ### Package Manager
 - [pancake-pm](https://github.com/linkpy/pancake-pm) - Simple pancake manager for Nelua.
@@ -32,20 +33,21 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nelua-webview-demo](https://github.com/edubart/nelua-webview-demo) - An example using Nelua for WebView apps.
 
 ### Games 
-- [Alpinist VS The Alien Invasion in Mount Roraima](https://github.com/Andre-LA/alpinist-vs-the-mount-roraima-alien-invasion) - Game made for IGDFE Game Jam 2.
+- [Alpinist VS The Alien Invasion in Mount Roraima](https://github.com/Andre-LA/alpinist-vs-the-mount-roraima-alien-invasion) - Game made for IGDFE Game Jam 2 made using Nene.
 - [nelua-game2048](https://github.com/edubart/nelua-game2048) - Clone of the 2048 game in Nelua using Raylib.
-- [nelua-tetris](https://github.com/edubart/nelua-tetris) - Tetris game clone made in Nelua with Raylib.
+- [nelua-tetris](https://github.com/edubart/nelua-tetris) - Tetris game clone in Nelua with Raylib.
 - [Castle Escape](https://github.com/Andre-LA/baixada-game-jam-game/) - Game made for Baixada Game Jam, written in Nelua using Raylib.
 - [Game Of Life in Arduino](https://gist.github.com/edubart/4991c5dd51205288519419f7d438adcf) - Game of Life coded in Arduino with Nelua.
-- [Cesleste](https://gist.github.com/edubart/a79bf78a249d1fff2b77728c260c7605) - Celeste game clone in Nelua.
+- [Cesleste](https://gist.github.com/edubart/a79bf78a249d1fff2b77728c260c7605) - Celeste game clone in Nelua using SDL2.
 - [nelua-Ping-Pong](https://github.com/AKDev21/nelua-ping-pong) - Ping Pong game in Nelua using Raylib.
 
 ### Graphics and Game Development
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua.
-- [zlnl](https://github.com/darltrash/zlnl) - A minimalist RPG game engine made in nelua for c99
 - [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib wrapper for the nelua programming language.
 - [Rotor-nelua](https://github.com/Andre-LA/Rotor-nelua-mirror) - Rotor is a set of libraries for doing ECS in Nelua.
 - [irene](https://github.com/Andre-LA/irene) - A collection of systems and components for Rotor-nelua.
+- [zlnl](https://github.com/darltrash/zlnl) - A minimalist RPG game engine made in nelua for c99.
+
 - [nprof](https://github.com/Andre-LA/nprof) - Very basic profiler for raylib-nelua.
 - [marcherstein3d](https://github.com/edubart/marcherstein3d) - Realtime pseudo 3D raycaster on the CPU using 2D ray marching.
 - [nelua-raytracing](https://github.com/Andre-LA/nelua-raytracing-card-mirror) - Tiny raytracing that fits on a business card.
@@ -57,18 +59,17 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nelua-lite-xl](https://gist.github.com/Andre-LA/2f56f69bc7b3ac9042534bb2c831639b) - Nelua syntax highliting for Lite-xl.
 - [nelua.vim](https://github.com/stefanos82/nelua.vim) - Nelua syntax highlighting for Vim.
 - [micro-nelua-plugin](https://github.com/leapofazzam123/micro-nelua-plugin) - Nelua syntax highliting and linter for the micro text editor.
-- [nelua-highlight](https://github.com/Enter1he/nelua-highlight) - Small syntax highlighter for nelua in vs-code
+- [nelua-highlight](https://github.com/Enter1he/nelua-highlight) - Small syntax highlighter for nelua in vs-code.
 
 ### Testing
 - [Lester](https://github.com/edubart/lester) - Lester is a minimal unit testing framework for Lua with a focus on being simple to use.
-- [nester](https://github.com/edubart/nelua-batteries/blob/main/docs/nester.md) - Nester is a minimal unit testing framework for Nelua with a focus on being simple to use.
-- [neluatest](https://github.com/nsauzede/neluatest) - Testing Nelua Programming Language
+- [nester](https://github.com/edubart/nelua-batteries) - Minimal unit testing framework inspired by lester.
+- [neluatest](https://github.com/nsauzede/neluatest) - Testing Nelua Programming Language.
 
 ### Utility
 - [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
 - [nldoec](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
-- [fs](https://github.com/edubart/nelua-batteries/blob/main/docs/fs.md) - File system module: Contains various utilities to manages files, directories and links.
-- [backtrace](https://github.com/edubart/nelua-batteries/blob/main/docs/backtrace.md) - Back trace module: provides utilities to get trace backs of the call stack at runtime.
+- [backtrace](https://github.com/edubart/nelua-batteries) - Provides a way to get trace backs at runtime, using the popular libbacktrace library.
 - [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua!.
 
 ### Resources
