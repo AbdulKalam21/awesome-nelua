@@ -44,10 +44,10 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Graphics and Game Development
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua.
 - [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib wrapper for the nelua programming language.
+- [nelua-glfw](https://github.com/AKDev21/nelua-glfw) - glfw bindings for the nelua programming language,
 - [Rotor-nelua](https://github.com/Andre-LA/Rotor-nelua-mirror) - Rotor is a set of libraries for doing ECS in Nelua.
 - [irene](https://github.com/Andre-LA/irene) - A collection of systems and components for Rotor-nelua.
 - [zlnl](https://github.com/darltrash/zlnl) - A minimalist RPG game engine made in nelua for c99.
-
 - [nprof](https://github.com/Andre-LA/nprof) - Very basic profiler for raylib-nelua.
 - [marcherstein3d](https://github.com/edubart/marcherstein3d) - Realtime pseudo 3D raycaster on the CPU using 2D ray marching.
 - [nelua-raytracing](https://github.com/Andre-LA/nelua-raytracing-card-mirror) - Tiny raytracing that fits on a business card.
