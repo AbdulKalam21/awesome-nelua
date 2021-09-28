@@ -18,6 +18,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
   - [Live Development](#live-development)
   - [Parsing](#parsing)
   - [Virtual Machine](#virtual-machine)
+  - [Generating Documentation](#generating-documentation)
 
 ### General Purpose
 - [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
@@ -68,7 +69,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Utility
 - [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
-- [nldoec](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
 - [backtrace](https://github.com/edubart/nelua-batteries) - Provides a way to get trace backs at runtime, using the popular libbacktrace library.
 - [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua!.
 
@@ -100,3 +100,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Virtual Machine
 - [riscvm](https://github.com/edubart/riscvm) - Tiny RISC-V virtual machine written in Nelua (and C as consequence).
+
+### Generating Documentation
+- [nldoc](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
