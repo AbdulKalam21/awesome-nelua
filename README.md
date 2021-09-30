@@ -72,6 +72,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
 - [backtrace](https://github.com/edubart/nelua-batteries) - Provides a way to get trace backs at runtime, using the popular libbacktrace library.
 - [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua!.
+- [ffi](https://github.com/Rabios/nelua-fun/tree/main/ffi) - Cross platform foreign function interface (FFI) module.
 
 ### Resources
 - [nelua-by-example](https://github.com/nelua-by-example) - A tutorial for Nelua, based on examples.
