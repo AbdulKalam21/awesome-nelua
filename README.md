@@ -52,6 +52,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nprof](https://github.com/Andre-LA/nprof) - Very basic profiler for raylib-nelua.
 - [marcherstein3d](https://github.com/edubart/marcherstein3d) - Realtime pseudo 3D raycaster on the CPU using 2D ray marching.
 - [nelua-raytracing](https://github.com/Andre-LA/nelua-raytracing-card-mirror) - Tiny raytracing that fits on a business card.
+- [sigil](https://github.com/Rabios/nelua-fun/tree/main/sigil) - Bindings of sigil for nelua.
 
 ### IDE and Code Editor Support
 - [nelua-lsp](https://github.com/codehz/nelua-lsp) - Langauge server plugin for the nelua programming language.
@@ -105,4 +106,4 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nldoc](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
 
 ### Math
-- [manthkit](https://github.com/Rabios/nelua-fun/tree/main/mathkit) - a library for Vector, Quaternion and Matrices math
+- [manthkit](https://github.com/Rabios/nelua-fun/tree/main/mathkit) - a library for Vector, Quaternion and Matrices math.
