@@ -103,3 +103,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Generating Documentation
 - [nldoc](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
+
+### Math
+- [manthkit](https://github.com/Rabios/nelua-fun/tree/main/mathkit) - a library for Vector, Quaternion and Matrices math
