@@ -33,6 +33,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC the Lua plugin.
 - [backtrace](https://github.com/edubart/nelua-batteries) - Provides a way to get trace backs at runtime, using the popular libbacktrace library.
 - [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua.
+- [ini](https://github.com/Rabios/nelua-fun/tree/main/ini) - ini bindings for nelua, Simple ini-file reader
 
 ### Math
 - [lua-bint](https://github.com/edubart/lua-bint) - Small portable arbitrary-precision integer arithmetic library in pure Lua for computing with large integers.
@@ -72,6 +73,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [tigr](https://github.com/Rabios/nelua-fun/tree/main/tigr) - TIGR bindings for nelua, TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
 - [sigil](https://github.com/Rabios/nelua-fun/tree/main/sigil) - Bindings of sigil for nelua, SIGIL - A very simple cross-platform library for playing audio, handling basic input, and drawing 2D graphics.
 - [FWK](https://github.com/Rabios/nelua-fun/tree/main/fwk) - FWK bindings for nelua, FWK - 3D game framework.
+- [SFML](https://github.com/Rabios/nelua-fun/tree/main/csfml) - SFML bindings for nelua, SFML - It is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network.
 
 ### Graphics
 - [marcherstein3d](https://github.com/edubart/marcherstein3d) - Realtime pseudo 3D raycaster on the CPU using 2D ray marching.
