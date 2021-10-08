@@ -22,7 +22,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
     - [Live Development](#live-development)
     - [Resources](#resources)
     - [Block Chain](#block-chain)
-    - [BenchMarks](#benchMarks)
+    - [Benchmarks](#Benchmarks)
 
 ### General Purpose
 - [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
@@ -74,6 +74,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Window and Input
 - [nelua-glfw](https://github.com/AKDev21/nelua-glfw) - GLFW bindings for nelua, GLFW - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input.
+- [Xinput](https://github.com/Rabios/nelua-fun/tree/main/xinput) - Xinput bindings for nelua, Xinput - API enables applications to receive input from the Xbox Controller for Windows.
 
 ### IDE and Code Editor Support
 - [nelua-lsp](https://github.com/codehz/nelua-lsp) - Langauge server plugin for nelua.
@@ -111,6 +112,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Block Chain
 - [NeChain](https://github.com/AliChraghi/NeChain) - A Single File Blockchain written in Nelua.
 
-### BenchMarks
+### Benchmarks
 - [nelua-benchmarks](https://github.com/edubart/nelua-benchmarks) - Benchmarks for comparing efficiency of Nelua with Lua, LuaJIT and C.
 - [realist](https://github.com/nsauzede/realist) - SDL2 raytracer + benchmark for Rust, Nelua, Nim, C, C++, Odin, V, Go.
