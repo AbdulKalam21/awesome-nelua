@@ -61,10 +61,11 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Game Development
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua.
-- [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib wrapper for nelua, raylib - A simple and easy-to-use library to enjoy videogames programming.
+- [zlnl](https://github.com/darltrash/zlnl) - A minimalist RPG game engine made in nelua for c99.
 - [Rotor-nelua](https://github.com/Andre-LA/Rotor-nelua-mirror) - Rotor is a set of libraries for doing ECS in Nelua.
 - [irene](https://github.com/Andre-LA/irene) - A collection of systems and components for Rotor-nelua.
-- [zlnl](https://github.com/darltrash/zlnl) - A minimalist RPG game engine made in nelua for c99.
+- [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib wrapper for nelua, raylib - A simple and easy-to-use library to enjoy videogames programming.
+- [tigr](https://github.com/Rabios/nelua-fun/tree/main/tigr) - TIGR bindings for nelua, TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
 - [sigil](https://github.com/Rabios/nelua-fun/tree/main/sigil) - Bindings of sigil for nelua, SIGIL - A very simple cross-platform library for playing audio, handling basic input, and drawing 2D graphics.
 
 ### Graphics
