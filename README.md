@@ -44,6 +44,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Parsing
 - [lpegrex](https://github.com/edubart/lpegrex) - Parse programming languages syntax into an AST using PEGs with ease (LPeg Extension).
+- [json](https://github.com/edubart/nelua-batteries) - Parse JSON into Nelua records, made in pure Nelua.
 
 ### Package Manager
 - [pancake-pm](https://github.com/linkpy/pancake-pm) - Simple pancake manager for Nelua.
