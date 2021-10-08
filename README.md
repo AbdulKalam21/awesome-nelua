@@ -28,10 +28,10 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
 
 ### Utility
-- [fs](https://github.com/edubart/nelua-batteries) - Cross platform file system library, you can use manage files and directories.
-- [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC Lua plugin.
+- [fs](https://github.com/edubart/nelua-batteries) - Cross platform file system library, you can use to manage files and directories.
+- [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC the Lua plugin.
 - [backtrace](https://github.com/edubart/nelua-batteries) - Provides a way to get trace backs at runtime, using the popular libbacktrace library.
-- [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua!.
+- [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua.
 
 ### Math
 - [lua-bint](https://github.com/edubart/lua-bint) - Small portable arbitrary-precision integer arithmetic library in pure Lua for computing with large integers.
@@ -61,11 +61,11 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Game Development
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua.
-- [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib wrapper for the nelua programming language.
+- [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib wrapper for nelua, raylib - A simple and easy-to-use library to enjoy videogames programming.
 - [Rotor-nelua](https://github.com/Andre-LA/Rotor-nelua-mirror) - Rotor is a set of libraries for doing ECS in Nelua.
 - [irene](https://github.com/Andre-LA/irene) - A collection of systems and components for Rotor-nelua.
 - [zlnl](https://github.com/darltrash/zlnl) - A minimalist RPG game engine made in nelua for c99.
-- [sigil](https://github.com/Rabios/nelua-fun/tree/main/sigil) - Bindings of sigil for nelua.
+- [sigil](https://github.com/Rabios/nelua-fun/tree/main/sigil) - Bindings of sigil for nelua, SIGIL - A very simple cross-platform library for playing audio, handling basic input, and drawing 2D graphics.
 
 ### Graphics
 - [marcherstein3d](https://github.com/edubart/marcherstein3d) - Realtime pseudo 3D raycaster on the CPU using 2D ray marching.
@@ -73,10 +73,10 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nprof](https://github.com/Andre-LA/nprof) - Very basic profiler for raylib-nelua.
 
 ### Window and Input
-- [nelua-glfw](https://github.com/AKDev21/nelua-glfw) - GLFW bindings for the nelua programming language.
+- [nelua-glfw](https://github.com/AKDev21/nelua-glfw) - GLFW bindings for nelua, GLFW - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input.
 
 ### IDE and Code Editor Support
-- [nelua-lsp](https://github.com/codehz/nelua-lsp) - Langauge server plugin for the nelua programming language.
+- [nelua-lsp](https://github.com/codehz/nelua-lsp) - Langauge server plugin for nelua.
 - [nelua-vscode](https://github.com/edubart/nelua-vscode) - Nelua syntax highlighting for Visual Studio Code.
 - [nelua-sublime](https://github.com/edubart/nelua-sublime) - Nelua syntax highlighting for Sublime Text.
 - [nelua-lite-xl](https://gist.github.com/Andre-LA/2f56f69bc7b3ac9042534bb2c831639b) - Nelua syntax highliting for Lite-xl.
@@ -87,7 +87,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Testing
 - [Lester](https://github.com/edubart/lester) - Lester is a minimal unit testing framework for Lua with a focus on being simple to use.
 - [nester](https://github.com/edubart/nelua-batteries) - Minimal unit testing framework inspired by lester.
-- [neluatest](https://github.com/nsauzede/neluatest) - Testing Nelua Programming Language.
 
 ### Generating Documentation
 - [nldoc](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
@@ -107,7 +106,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nelua-by-example](https://github.com/nelua-by-example) - A tutorial for Nelua, based on examples.
 - [nelua-samples](https://github.com/edubart/nelua-samples) - Some sample applications write in Nelua.
 - [aoc202](https://github.com/edubart/aoc2020) - Advent of Code 2020 in Nelua.
-- [lunray](https://github.com/edubart/lunray) - Ray tracing experiment in Nelua programming language.
+- [lunray](https://github.com/edubart/lunray) - Ray tracing experiment in Nelua.
 
 ### Block Chain
 - [NeChain](https://github.com/AliChraghi/NeChain) - A Single File Blockchain written in Nelua.
