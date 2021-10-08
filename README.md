@@ -10,6 +10,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
     - [Parsing](#parsing)
     - [Package Manager](#package-manager)
     - [Web](#web)
+    - [Networking](#networking)
     - [Games](#games)
     - [Game Development](#game-development)
     - [Graphics](#graphics)
@@ -47,8 +48,11 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [pancake-pm](https://github.com/linkpy/pancake-pm) - Simple pancake manager for Nelua.
 
 ### Web
-- [NeluaWS](https://github.com/Elpersonn/NeluaWS/) - Simple webSocket program written in Nelua.
 - [nelua-webview-demo](https://github.com/edubart/nelua-webview-demo) - An example using Nelua for WebView apps.
+
+### Networking
+- [NeluaWS](https://github.com/Elpersonn/NeluaWS/) - Simple webSocket program written in Nelua.
+- [http](https://github.com/Rabios/nelua-fun/tree/main/http) - http bindings for nelua, http - Basic HTTP protocol implementation over sockets (no https).
 
 ### Games
 - [Alpinist VS The Alien Invasion in Mount Roraima](https://github.com/Andre-LA/alpinist-vs-the-mount-roraima-alien-invasion) - Game made for IGDFE Game Jam 2 made using Nene.
@@ -67,6 +71,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib wrapper for nelua, raylib - A simple and easy-to-use library to enjoy videogames programming.
 - [tigr](https://github.com/Rabios/nelua-fun/tree/main/tigr) - TIGR bindings for nelua, TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
 - [sigil](https://github.com/Rabios/nelua-fun/tree/main/sigil) - Bindings of sigil for nelua, SIGIL - A very simple cross-platform library for playing audio, handling basic input, and drawing 2D graphics.
+- [FWK](https://github.com/Rabios/nelua-fun/tree/main/fwk) - FWK bindings for nelua, FWK - 3D game framework.
 
 ### Graphics
 - [marcherstein3d](https://github.com/edubart/marcherstein3d) - Realtime pseudo 3D raycaster on the CPU using 2D ray marching.
