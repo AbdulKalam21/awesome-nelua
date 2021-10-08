@@ -105,6 +105,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Operating Systems
 - [nelua-osdev](https://github.com/radgeRayden/nelua-osdev-barebones) - An Operating System written in nelua.
+- [stivale2-nelua](https://github.com/leapofazzam123/stivale2-nelua) - stivale2 module for Nelua
 
 ### Live Development
 - [luamon](https://github.com/edubart/luamon) - Live development utility for Lua inspired by nodemon.
