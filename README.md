@@ -24,6 +24,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
     - [Resources](#resources)
     - [Block Chain](#block-chain)
     - [Benchmarks](#Benchmarks)
+    - [Logging](#logging)
 
 ### General Purpose
 - [pancake-lib](https://github.com/linkpy/pancake-lib) - General purpose library and tools for Nelua.
@@ -82,7 +83,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nprof](https://github.com/Andre-LA/nprof) - Very basic profiler for raylib-nelua.
 
 ### Window and Input
-- [nelua-glfw](https://github.com/AKDev21/nelua-glfw) - GLFW bindings for nelua, GLFW - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input.
 - [Xinput](https://github.com/Rabios/nelua-fun/tree/main/xinput) - Xinput bindings for nelua, Xinput - API enables applications to receive input from the Xbox Controller for Windows.
 
 ### IDE and Code Editor Support
@@ -112,7 +112,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [luamon](https://github.com/edubart/luamon) - Live development utility for Lua inspired by nodemon.
 - [forkmoon](https://github.com/edubart/forkmon) - Watch for file changes and auto restart an application using fork checkpoints to continue the process (for quick live development).
 
-
 ### Resources
 - [nelua-by-example](https://github.com/nelua-by-example) - A tutorial for Nelua, based on examples.
 - [nelua-samples](https://github.com/edubart/nelua-samples) - Some sample applications write in Nelua.
@@ -125,3 +124,6 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Benchmarks
 - [nelua-benchmarks](https://github.com/edubart/nelua-benchmarks) - Benchmarks for comparing efficiency of Nelua with Lua, LuaJIT and C.
 - [realist](https://github.com/nsauzede/realist) - SDL2 raytracer + benchmark for Rust, Nelua, Nim, C, C++, Odin, V, Go.
+
+### Logging
+- [log.nelua](https://github.com/AKDev21/log.nelua) - A Minimal, Small, and Simple logging library written in nelua.
