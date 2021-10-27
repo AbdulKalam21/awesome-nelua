@@ -65,6 +65,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [Game Of Life in Arduino](https://gist.github.com/edubart/4991c5dd51205288519419f7d438adcf) - Game of Life coded in Arduino with Nelua.
 - [Cesleste](https://gist.github.com/edubart/a79bf78a249d1fff2b77728c260c7605) - Celeste game clone in Nelua using SDL2.
 - [nelua-Ping-Pong](https://github.com/AKDev21/nelua-ping-pong) - Ping Pong game in Nelua using Raylib.
+- [shoot-the-red](https://github.com/Elpersonn/shoot-the-red) - A game where you are a square and you have to shoot a red square.
 
 ### Game Development
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua.
