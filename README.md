@@ -6,7 +6,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
     - [General Purpose](#general-purpose)
     - [Utility](#utility)
     - [Math](#math)
-    - [ffi](#ffi)
+    - [FFI](#ffi)
     - [Parsing](#parsing)
     - [Package Manager](#package-manager)
     - [Web](#web)
@@ -34,14 +34,14 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nelua-decl](https://github.com/edubart/nelua-decl) - C binding generator for Nelua using GCC the Lua plugin.
 - [backtrace](https://github.com/edubart/nelua-batteries) - Provides a way to get trace backs at runtime, using the popular libbacktrace library.
 - [blockly-nelua](https://github.com/Rabios/blockly-nelua) - Blockly that generates Nelua.
-- [ini](https://github.com/Rabios/nelua-fun/tree/main/ini) - ini bindings for nelua, Simple ini-file reader
+- [ini](https://github.com/Rabios/nelua-fun/tree/main/ini) - ini bindings for nelua, Simple ini-file reader.
 
 ### Math
 - [lua-bint](https://github.com/edubart/lua-bint) - Small portable arbitrary-precision integer arithmetic library in pure Lua for computing with large integers.
 - [manthkit](https://github.com/Rabios/nelua-fun/tree/main/mathkit) - a library for Vector, Quaternion and Matrices math.
 
-### ffi
-- [ffi](https://github.com/edubart/nelua-batteries) - Cross platform FFI for Nelua, you can use it to load symbols from shared libraries.
+### FFI
+- [FFI](https://github.com/edubart/nelua-batteries) - Cross platform FFI for Nelua, you can use it to load symbols from shared libraries.
 
 ### Parsing
 - [lpegrex](https://github.com/edubart/lpegrex) - Parse programming languages syntax into an AST using PEGs with ease (LPeg Extension).
@@ -72,8 +72,8 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [zlnl](https://github.com/darltrash/zlnl) - A minimalist RPG game engine made in nelua for c99.
 - [Rotor-nelua](https://github.com/Andre-LA/Rotor-nelua-mirror) - Rotor is a set of libraries for doing ECS in Nelua.
 - [irene](https://github.com/Andre-LA/irene) - A collection of systems and components for Rotor-nelua.
-- [nelua-raylib](https://github.com/AKDev21/nelua-raylib) - Raylib 3.7 bindings for nelua, raylib - A simple and easy-to-use library to enjoy videogames programming.
-- [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib 3.5 wrapper for nelua, raylib - A simple and easy-to-use library to enjoy videogames programming.
+- [nelua-raylib](https://github.com/AKDev21/nelua-raylib) - Raylib 4.0 bindings for nelua, raylib - A simple and easy-to-use library to enjoy videogames programming.
+- [raylib-nelua](https://github.com/Andre-LA/raylib-nelua) - Raylib 3.5 wrapper for nelua.
 - [tigr](https://github.com/Rabios/nelua-fun/tree/main/tigr) - TIGR bindings for nelua, TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
 - [sigil](https://github.com/Rabios/nelua-fun/tree/main/sigil) - Bindings of sigil for nelua, SIGIL - A very simple cross-platform library for playing audio, handling basic input, and drawing 2D graphics.
 - [FWK](https://github.com/Rabios/nelua-fun/tree/main/fwk) - FWK bindings for nelua, FWK - 3D game framework.
@@ -104,11 +104,11 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nldoc](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
 
 ### Virtual Machines
-- [riscvm](https://github.com/edubart/riscvm) - Tiny RISC-V virtual machine written in Nelua (and C as consequence).
+- [riscvm](https://github.com/edubart/riscvm) - Tiny RISC-V virtual machine written in Nelua.
 
 ### Operating Systems
 - [nelua-osdev](https://github.com/radgeRayden/nelua-osdev-barebones) - An Operating System written in nelua.
-- [stivale2-nelua](https://github.com/leapofazzam123/stivale2-nelua) - stivale2 module for Nelua
+- [stivale2-nelua](https://github.com/leapofazzam123/stivale2-nelua) - stivale2 module for Nelua.
 
 ### Live Development
 - [luamon](https://github.com/edubart/luamon) - Live development utility for Lua inspired by nodemon.
@@ -117,7 +117,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Resources
 - [nelua-by-example](https://github.com/nelua-by-example) - A tutorial for Nelua, based on examples.
 - [nelua-samples](https://github.com/edubart/nelua-samples) - Some sample applications write in Nelua.
-- [aoc202](https://github.com/edubart/aoc2020) - Advent of Code 2020 in Nelua.
+- [aoc202](https://github.com/edubart/aoc2020) - Solutions of Advent of Code 2020 in Nelua.
 - [lunray](https://github.com/edubart/lunray) - Ray tracing experiment in Nelua.
 
 ### Block Chain
