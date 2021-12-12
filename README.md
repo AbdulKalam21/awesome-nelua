@@ -68,6 +68,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [nelua-Ping-Pong](https://github.com/AKDev21/nelua-ping-pong) - Ping Pong game in Nelua using Raylib.
 - [shoot-the-red](https://github.com/Elpersonn/shoot-the-red) - A game where you are a square and you have to shoot a red square.
 - [jogabilijogo-2021](https://github.com/Andre-LA/jogabilijogo-2021) - Game for Jogabilijam 4
+- [o-terrivel-jogo-da-perna-cabeluda-mirror](https://github.com/Andre-LA/o-terrivel-jogo-da-perna-cabeluda-mirror) - "a very weird game"
 
 ### Game Development
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua.
