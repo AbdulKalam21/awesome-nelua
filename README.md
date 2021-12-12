@@ -123,6 +123,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [aoc202](https://github.com/edubart/aoc2020) - Solutions of Advent of Code in Nelua.
 - [lunray](https://github.com/edubart/lunray) - Ray tracing experiment in Nelua.
 - [aoc](https://github.com/AKDev21/aoc) - Advent Of Code solution in nelua.
+- [Nelua-PS2-Hello](https://github.com/lunaboards-dev/Nelua-PS2-Hello) - Hello World in Nelua, but for the PS2.
 
 ### Block Chain
 - [NeChain](https://github.com/AliChraghi/NeChain) - A Single File Blockchain written in Nelua.
