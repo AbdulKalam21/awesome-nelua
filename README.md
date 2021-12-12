@@ -24,6 +24,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
     - [Resources](#resources)
     - [Block Chain](#block-chain)
     - [Benchmarks](#Benchmarks)
+    - [algorithms](#algorithms)
     - [Logging](#logging)
 
 ### General Purpose
@@ -127,6 +128,9 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Benchmarks
 - [nelua-benchmarks](https://github.com/edubart/nelua-benchmarks) - Benchmarks for comparing efficiency of Nelua with Lua, LuaJIT and C.
 - [realist](https://github.com/nsauzede/realist) - SDL2 raytracer + benchmark for Rust, Nelua, Nim, C, C++, Odin, V, Go.
+
+### algorithms
+- [algorithm.nelua](https://github.com/edubart/nelua-batteries/blob/main/algorithm.nelua) - Contains various algorithms to be used in containers, such as sort and stable sort.
 
 ### Logging
 - [log.nelua](https://github.com/AKDev21/log.nelua) - A Minimal, Small, and Simple logging library written in nelua.
