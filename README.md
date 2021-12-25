@@ -120,6 +120,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Resources
 - [nelua-by-example](https://github.com/nelua-by-example) - A tutorial for Nelua, based on examples.
 - [nelua-samples](https://github.com/edubart/nelua-samples) - Some sample applications write in Nelua.
+- [nelua-tutorials](https://github.com/AKDev21/nelua-tutorials) - Nelua tutorials written in markdown files.
 - [aoc202](https://github.com/edubart/aoc2020) - Solutions of Advent of Code in Nelua.
 - [lunray](https://github.com/edubart/lunray) - Ray tracing experiment in Nelua.
 - [aoc](https://github.com/AKDev21/aoc) - Advent Of Code solution in nelua.
