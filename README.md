@@ -40,6 +40,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 ### Math
 - [lua-bint](https://github.com/edubart/lua-bint) - Small portable arbitrary-precision integer arithmetic library in pure Lua for computing with large integers.
 - [manthkit](https://github.com/Rabios/nelua-fun/tree/main/mathkit) - a library for Vector, Quaternion and Matrices math.
+- [nelua-mpfr](https://github.com/acisternino/nelua-mpfr) - Bindings of the GNU MPFR library, MPFR - C library for multiple-precision floating-point computations with correct rounding.
 
 ### FFI
 - [FFI](https://github.com/edubart/nelua-batteries) - Cross platform FFI for Nelua, you can use it to load symbols from shared libraries.
