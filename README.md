@@ -60,6 +60,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [http](https://github.com/Rabios/nelua-fun/tree/main/http) - http bindings for nelua, http - Basic HTTP protocol implementation over sockets (no https).
 
 ### Games
+- [antcopter](https://github.com/edubart/antcopter) - 2D speed run platformer game made for the WASM4 Game Jam
 - [Alpinist VS The Alien Invasion in Mount Roraima](https://github.com/Andre-LA/alpinist-vs-the-mount-roraima-alien-invasion) - Game made for IGDFE Game Jam 2 made using Nene.
 - [nelua-game2048](https://github.com/edubart/nelua-game2048) - Clone of the 2048 game in Nelua using Raylib.
 - [nelua-tetris](https://github.com/edubart/nelua-tetris) - Tetris game clone in Nelua with Raylib.
