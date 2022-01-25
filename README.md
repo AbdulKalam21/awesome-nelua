@@ -74,6 +74,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 
 ### Game Development
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua.
+- [wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [zlnl](https://github.com/darltrash/zlnl) - A minimalist RPG game engine made in nelua for c99.
 - [Rotor-nelua](https://github.com/Andre-LA/Rotor-nelua-mirror) - Rotor is a set of libraries for doing ECS in Nelua.
 - [irene](https://github.com/Andre-LA/irene) - A collection of systems and components for Rotor-nelua.
