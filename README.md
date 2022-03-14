@@ -94,6 +94,7 @@ A curated list of awesome frameworks, libraries, and software for the nelua prog
 - [Xinput](https://github.com/Rabios/nelua-fun/tree/main/xinput) - Xinput bindings for nelua, Xinput - API enables applications to receive input from the Xbox Controller for Windows.
 
 ### IDE and Code Editor Support
+- [ta-nelua](https://github.com/Andre-LA/ta-nelua) - Nelua module for Textadept.
 - [nelua-lsp](https://github.com/codehz/nelua-lsp) - Langauge server plugin for nelua.
 - [nelua-vscode](https://github.com/edubart/nelua-vscode) - Nelua syntax highlighting for Visual Studio Code.
 - [nelua-sublime](https://github.com/edubart/nelua-sublime) - Nelua syntax highlighting for Sublime Text.
